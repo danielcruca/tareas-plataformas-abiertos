@@ -1,5 +1,15 @@
-# Tareas Plataformas Abiertas
+# 📚 Tareas Plataformas Abiertas
 
-*Nombre de estudiante:* Leonardo Davinci.
+## 👨‍🎓 Información del Estudiante
 
-*Universidad:* UCA
+- **Nombre:** Leonardo Davinci  
+- **Universidad:** UCA  
+
+---
+
+## 🚀 Actualizaciones del Proyecto
+
+Se agregó una nueva funcionalidad desde el branch:
+
+```bash
+agregar-tarea-nueva
